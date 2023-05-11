@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel
+
+Name: segway_msgs
+Description: Description of segway_msgs
+Version: 0.0.0
+Cflags: -I/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include -I/usr/include
+Libs: -L${prefix}/lib /usr/lib/x86_64-linux-gnu/libboost_system.so
+Requires: geometry_msgs message_generation actionlib_msgs actionlib nav_msgs roscpp rospy std_msgs tf

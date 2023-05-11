@@ -1,0 +1,6 @@
+(cl:in-package segway_msgs-srv)
+(cl:export '(ROS_SET_CHASSIS_ENABLE_CMD-VAL
+          ROS_SET_CHASSIS_ENABLE_CMD
+          CHASSIS_SET_CHASSIS_ENABLE_RESULT-VAL
+          CHASSIS_SET_CHASSIS_ENABLE_RESULT
+))

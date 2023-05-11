@@ -1,0 +1,6 @@
+(cl:in-package segway_msgs-srv)
+(cl:export '(ROS_ENABLE_CHASSIS_ROTATE_CMD-VAL
+          ROS_ENABLE_CHASSIS_ROTATE_CMD
+          CHASSIS_ENABLE_ROTATE_RESULT-VAL
+          CHASSIS_ENABLE_ROTATE_RESULT
+))

@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/segway_msgs_generate_messages_cpp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/chassis_ctrl_src_fb.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/chassis_mileage_meter_fb.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_set_iap_cmdActionFeedback.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/motor_work_mode_fb.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/bms_fb.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/chassis_mode_fb.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_set_iap_cmdGoal.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/error_code_fb.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_set_iap_cmdActionGoal.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/speed_fb.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ticks_fb.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_set_iap_cmdActionResult.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_set_iap_cmdResult.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_set_iap_cmdAction.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_set_iap_cmdFeedback.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_set_vel_max_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_reset_host_power_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_clear_chassis_error_code_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_start_chassis_right_rotate_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_set_chassis_poweroff_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_get_load_param_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_set_load_param_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_get_chassis_SN_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_get_chassis_rotate_switch_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_start_chassis_left_rotate_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_set_chassis_enable_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/chassis_send_event.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_get_vel_max_feedback_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_get_rotate_function_cfg_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_get_sw_version_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_enable_chassis_rotate_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_set_chassis_buzzer_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_stop_chassis_rotate_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_get_host_and_chassis_match_cmd.h"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/include/segway_msgs/ros_set_cfg_rotate_function_cmd.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/segway_msgs_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

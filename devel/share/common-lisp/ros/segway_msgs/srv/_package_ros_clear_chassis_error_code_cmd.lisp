@@ -1,0 +1,6 @@
+(cl:in-package segway_msgs-srv)
+(cl:export '(CLEAR_CHASSIS_ERROR_CODE_CMD-VAL
+          CLEAR_CHASSIS_ERROR_CODE_CMD
+          CLEAR_CHASSIS_ERROR_CODE_RESULT-VAL
+          CLEAR_CHASSIS_ERROR_CODE_RESULT
+))

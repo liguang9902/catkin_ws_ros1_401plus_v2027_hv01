@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/segway_msgs_generate_messages_nodejs"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/chassis_ctrl_src_fb.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/chassis_mileage_meter_fb.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/ros_set_iap_cmdActionFeedback.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/motor_work_mode_fb.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/bms_fb.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/chassis_mode_fb.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/ros_set_iap_cmdGoal.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/error_code_fb.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/ros_set_iap_cmdActionGoal.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/speed_fb.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/ticks_fb.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/ros_set_iap_cmdActionResult.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/ros_set_iap_cmdResult.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/ros_set_iap_cmdAction.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/msg/ros_set_iap_cmdFeedback.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_set_vel_max_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_reset_host_power_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_clear_chassis_error_code_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_start_chassis_right_rotate_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_set_chassis_poweroff_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_get_load_param_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_set_load_param_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_get_chassis_SN_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_get_chassis_rotate_switch_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_start_chassis_left_rotate_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_set_chassis_enable_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/chassis_send_event.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_get_vel_max_feedback_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_get_rotate_function_cfg_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_get_sw_version_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_enable_chassis_rotate_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_set_chassis_buzzer_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_stop_chassis_rotate_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_get_host_and_chassis_match_cmd.js"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/gennodejs/ros/segway_msgs/srv/ros_set_cfg_rotate_function_cmd.js"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/segway_msgs_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/segway_msgs_generate_messages_lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/chassis_ctrl_src_fb.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/chassis_mileage_meter_fb.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/ros_set_iap_cmdActionFeedback.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/motor_work_mode_fb.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/bms_fb.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/chassis_mode_fb.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/ros_set_iap_cmdGoal.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/error_code_fb.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/ros_set_iap_cmdActionGoal.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/speed_fb.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/ticks_fb.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/ros_set_iap_cmdActionResult.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/ros_set_iap_cmdResult.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/ros_set_iap_cmdAction.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/msg/ros_set_iap_cmdFeedback.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_set_vel_max_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_reset_host_power_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_clear_chassis_error_code_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_start_chassis_right_rotate_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_set_chassis_poweroff_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_get_load_param_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_set_load_param_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_get_chassis_SN_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_get_chassis_rotate_switch_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_start_chassis_left_rotate_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_set_chassis_enable_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/chassis_send_event.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_get_vel_max_feedback_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_get_rotate_function_cfg_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_get_sw_version_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_enable_chassis_rotate_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_set_chassis_buzzer_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_stop_chassis_rotate_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_get_host_and_chassis_match_cmd.lisp"
+  "/home/ubuntu/catkin_ws_ros1_401plus_v2027_hv01/devel/share/common-lisp/ros/segway_msgs/srv/ros_set_cfg_rotate_function_cmd.lisp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/segway_msgs_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
